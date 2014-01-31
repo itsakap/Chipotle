@@ -1,4 +1,11 @@
 Chipotle::Application.routes.draw do
+  get "burritos/create"
+  get "burritos" => "burritos#index"
+  get "burritos/new"
+  get "burritos/edit"
+  get "burritos/show"
+  get "burritos/update"
+  get "burritos/delete"
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
