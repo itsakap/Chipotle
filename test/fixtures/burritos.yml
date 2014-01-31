@@ -1,0 +1,35 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  meat: MyString
+  double_meat: false
+  beans: MyString
+  double_beans: false
+  cheese: false
+  rice: MyString
+  fajita_vegetables: false
+  lettuce: false
+  red_chili_salsa: false
+  corn_salsa: false
+  fresh_salsa: false
+  green_chili_salsa: false
+  sour_cream: false
+  guacamole: false
+
+two:
+  name: MyString
+  meat: MyString
+  double_meat: false
+  beans: MyString
+  double_beans: false
+  cheese: false
+  rice: MyString
+  fajita_vegetables: false
+  lettuce: false
+  red_chili_salsa: false
+  corn_salsa: false
+  fresh_salsa: false
+  green_chili_salsa: false
+  sour_cream: false
+  guacamole: false
